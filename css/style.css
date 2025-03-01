@@ -1,0 +1,18 @@
+  /* Adjust margins and size of carousel */
+  #carouselExampleIndicators {
+    max-width: 600px; /* Set maximum width of the carousel */
+    margin: 20px 0 20px 50px; /* Adjust margin: top, right, bottom, left */
+    display: inline;
+  }
+  /* Optional: Adjust image size */
+  #carouselExampleIndicators img {
+    height: 500px; /* Set height of images */
+    object-fit: cover; /* Ensure images cover the entire slide */
+    display: inline;
+  }
+
+
+  .card {
+      margin-bottom: 20px;
+      margin-top: 30px;
+    }

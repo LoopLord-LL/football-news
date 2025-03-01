@@ -1,0 +1,12 @@
+.sms{
+    background-color: #ff4081; 
+    border-radius: 1px solid #ff4081;
+    color: #ffffff; 
+  }
+  .sms:hover{
+    background-color: #f50057; 
+    color: #ffffff;
+  }
+  #message{
+    width: 400px;
+  }
